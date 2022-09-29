@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeFick
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development, programming, cryptocurrencies and blockchain technology.
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on the project of my friend
 - 📫 How to reach me: arturfx4@gmail.com
